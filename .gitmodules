@@ -1,0 +1,3 @@
+[submodule "STMHALCPP"]
+	path = STMHALCPP
+	url = https://github.com/Emb-Coder/STMHALCPP.git
